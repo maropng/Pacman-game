@@ -1,4 +1,4 @@
-# Pacman Game - Python
+#  Pacman Game - Python
 A classic Pacman game built using Python and pygame.
 
 ## Requirements
